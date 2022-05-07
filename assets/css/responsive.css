@@ -1,105 +1,98 @@
 /* Pc */
 @media (min-width: 1024px) {
-
-    }
+}
 
 /* Mobile and Tablet */
 @media (max-width: 1023px) {
-    .btn {
-        padding: 15px 16px;
-    }
+  .btn {
+    padding: 15px 16px;
+  }
 
-    .contact-form .form-control {
-        padding: 15px;
-        font-size: 16px;
-    }
+  .contact-form .form-control {
+    padding: 15px;
+    font-size: 16px;
+  }
 
-    .contact-info {
-        line-height: 2;
-    }
+  .contact-info {
+    line-height: 2;
+  }
 
-    .contact-submit-btn {
-        font-size: 16px;
-    }
+  .contact-submit-btn {
+    font-size: 16px;
+  }
 
-    #footer .social-list  {
-        font-size: 48px;
-        margin: 0 8px;
-    }
+  #footer .social-list {
+    font-size: 48px;
+    margin: 0 8px;
+  }
 
-    #footer .copyright a {
-        padding: 8px 0;
-        display: inline-block;
-    }
-
-
+  #footer .copyright a {
+    padding: 8px 0;
+    display: inline-block;
+  }
 }
 /* Tablet */
-@media (min-width: 740px) and (max-width : 1023) {
-
-    
+@media (min-width: 740px) and (max-width: 1023) {
 }
 
 /* Mobile */
 @media (max-width: 739px) {
-    .s-full-with,
-    .s-col-full{
-        width: 100% !important;
-    }
+  .s-full-with,
+  .s-col-full {
+    width: 100% !important;
+  }
 
-    .s-mt-8 { 
-        margin-top: 8px !important;
-    }
+  .s-mt-8 {
+    margin-top: 8px !important;
+  }
 
-    #header {
-        overflow: hidden;
-    }
+  #header {
+    overflow: hidden;
+  }
 
-    #header .search-btn {
-        display: none;
-    }
+  #header .search-btn {
+    display: none;
+  }
 
-    #header .mobile-menu-btn {
-        display: block;
-    }
+  #header .mobile-menu-btn {
+    display: block;
+  }
 
-    #nav {
-        display: block;
-    }
+  #nav {
+    display: block;
+  }
 
-    #nav li a {
-        padding: 1px 24px;
-    }
-    #nav .subnav {
-        position: initial;
-        background-color: #333;
-    }
+  #nav li a {
+    padding: 1px 24px;
+  }
+  #nav .subnav {
+    position: initial;
+    background-color: #333;
+  }
 
-    #nav .subnav a {
-        color: #fff;
-        padding: 5px 41px;
-    }
+  #nav .subnav a {
+    color: #fff;
+    padding: 5px 41px;
+  }
 
-    #nav > li {
-        display: block;
-    }
+  #nav > li {
+    display: block;
+  }
 
-    #nav > li:first-child {
-        display: inline-block;
-    }
+  #nav > li:first-child {
+    display: inline-block;
+  }
 
-    #content .member-item {
-        width: 100%;
-        margin-top: 32px;
-    }
+  #content .member-item {
+    width: 100%;
+    margin-top: 32px;
+  }
 
-    #content .member-img {
-        width: 60%;
-    }
+  #content .member-img {
+    width: 60%;
+  }
 
-    .contact-form {
-        margin-top: 32px;
-    }
-
-
+  .contact-form {
+    margin-top: 32px;
+  }
 }
